@@ -1,0 +1,43 @@
+header{
+    
+margin: 5%;
+}
+.cabecalho_imagem{
+    display: inline;
+    width: 30%;
+}
+h3{
+    display: inline;
+    font-size:xx-large;
+    background-color: #ffffcc;
+    margin:5% ;
+    margin-top: 50%;
+    margin-bottom: 50%;
+    text-align: center;
+}
+
+body {
+    background-color: #66ccff;
+    margin: 5%;
+    font-size: medium;
+   
+
+}
+h1 {text-align: center;
+    background-color: #ffffcc; 
+    margin: 5%;
+
+}
+.mentimeter{
+align-content: center;
+width: 80%;
+}
+.fotos{
+    display: inline;
+    width: 20%;
+    background-color: #ffffcc;
+    margin:5%;
+}
+.centro-img{
+    text-align: center;
+}
